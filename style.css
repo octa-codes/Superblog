@@ -1,12 +1,12 @@
 body{
     width: 70%;
     height: 70%;
-    border: 1px solid #333;
+    border: 3px solid #984;
     text-align: center;
 }
 
 .container{
-    color: rgb(206, 20, 20);
+    color: rgb(20, 206, 150);
 }
 
 .cabecera{
