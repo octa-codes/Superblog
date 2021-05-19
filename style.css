@@ -8,3 +8,8 @@ body{
 .container{
     color: rgb(206, 20, 20);
 }
+
+.cabecera{
+    color: rgba(19, 160, 216, 0.787);
+    background: #333;
+}
